@@ -1,5 +1,6 @@
 // Copyright 2017-2019 Project Borealis
 
+#include "GameFramework/DamageType.h"
 #include "Character/PBPlayerCharacter.h"
 
 #include "Components/CapsuleComponent.h"
